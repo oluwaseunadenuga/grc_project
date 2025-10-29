@@ -23,25 +23,6 @@ OSINT tools used to gather information on APT34:
 - **ThreatConnect - https://www.threatconnect.com:** 
 - **Kaspersky Lab: https://www.kaspersky.com:**
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
-- 
-- **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
-component issues and wastage.
-- **Data Understanding:** I explored the dataset to identify key features and
-relationships for analysis.
-
-METHODOLOGY
-- **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
-component issues and wastage.
-- **Data Understanding:** I explored the dataset to identify key features and
-relationships for analysis.
-- **ETL Process:** I extracted, transformed, and loaded the data into Power BI for
-compatibility and analysis.
-
-- **Data Modeling:** I created relationships between fact and dimension tables for
-structured analysis.
-
-- **Analysis & Visualization:** I used Power BI to generate trendline charts and
-visualizations, uncovering correlations and patterns in issues and wastage.
 
 ## MODELLING
 The data modeling for this project follows a star schema approach, where the **Fact Table** (containing hospital component issues and wastage records) is connected to multiple **Dimension Tables** to ensure efficient analysis. The **Fact Table** includes key metrics such as issue counts, wastage counts, product group names, and blood group names. It is linked to **Dimension Tables** like **Blood Group (O-, A+, etc.), Calender (Year, Quarter, Month), and Wastage Codes (TIMEX, TTMH, etc.)** through unique identifiers. This relational structure allows for seamless trend analysis, comparisons across different categories, and deeper insights into the root causes of wastage and inventory inefficiencies.
