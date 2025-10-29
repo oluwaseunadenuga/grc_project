@@ -32,7 +32,9 @@ This is a widely used tool to categorise and identify cyberthreats.
 ## Overview of APT34
 **History**
  APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
-**Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives**.
+**Known for its sophisticated and persistent attacks
+APT34 uses custom malware
+phishing and web shells to achieve its objectives**.
 
 **Nation/State Association**
 APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
@@ -54,11 +56,12 @@ APT34’s primary motive is espionage. The group seeks to:
 
 **2. APT34 Tactics, Techniques, and Procedures (TTPs)**
 **Using the MITRE ATT&CK Framework, APT34’s TTPs include:
+
 Tactic	Technique
 Initial Access	Spear-phishing links (T1566.001),
 exploiting public-facing applications (T1190).
 Execution	PowerShell scripting (T1059.001)
-Eeution of malicious payloads (T1203).
+Evolution of malicious payloads (T1203).
 Persistence	Web shells (T1505.003)
 account manipulation (T1098).
 Privilege Escalation	Exploiting vulnerabilities for elevated privileges (T1068).
@@ -108,9 +111,9 @@ To mitigate risks, the following multi-layered security measures are recommended
 
 ## CONCLUSION AND RECOMMENDATIONS
 APT34’s sophisticated tactics and nation-state backing make them a persistent and formidable threat. The client should:
-- ** Implement the recommended defence strategies to strengthen their security posture:**.
--**Regularly update and test their defences based on emerging threat intelligence:**
+- ** Implement the recommended defence strategies to strengthen their security posture
+Regularly update and test their defences based on emerging threat intelligence:**
 -**Foster a culture of security awareness among employees to reduce human error:**
-  **By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threatsarget Top Wastage Causes:**
+  -**By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threatsarget Top Wastage Causes:**
 
 ## THANK YOU
