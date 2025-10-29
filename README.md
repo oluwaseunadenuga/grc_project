@@ -59,7 +59,7 @@ APT34’s primary motive is espionage. The group seeks to:
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 - **Using the MITRE ATT&CK Framework, APT34’s TTPs include:
 
-Tactic	Technique
+## Tactic	Technique
 Initial Access	Spear-phishing links (T1566.001),
 exploiting public-facing applications (T1190).
 Execution	PowerShell scripting (T1059.001)
