@@ -91,12 +91,7 @@ F. Incident Response and Recovery
 G. Continuous Monitoring and Analytics
 1.	SIEM Solutions: Implement Security Information and Event Management (SIEM) systems to centralize and correlate logs.
 2.	Behavioural Analytics: Leverage analytics to detect anomalies indicative of APT-style attacks.
-4. Conclusion and Recommendations
-APT34’s sophisticated tactics and nation-state backing make them a persistent and formidable threat. The client should:
-•	Implement the recommended defence strategies to strengthen their security posture.
-•	Regularly update and test their defences based on emerging threat intelligence.
-•	Foster a culture of security awareness among employees to reduce human error.
-By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threats.
+
  
 
 
@@ -105,15 +100,11 @@ By adopting these measures, the client can significantly reduce the risk of succ
 Line Chart**
 - **Bar Chart**
 
-## RECOMMENDATION
-- **Target Top Wastage Causes:** Focus on minimizing the top 10 wastage drivers, especially Time Expiry (TIMEX), which contributes the most to wastage.
-
-- **Optimize RBC Management:** Monitor and manage Red Blood Cell (RBC) stocks carefully due to their consistently high issues and wastage volumes.
-
-- **Adjust for Seasonal Trends:** Align inventory strategies with seasonal and quarterly trends to prevent overstocking during low-demand periods and shortages during peak wastage times (e.g., Q2–Q3 2023).
-
-- **Blood Group-Specific Allocation:** Tailor inventory levels for key blood groups like O Negative and A Negative to address fluctuations in issues and wastage effectively.
-
-- **Enhanced Monitoring of Platelets and Frozen Components:** Closely track and address rising wastage trends in Platelets and Adult FFP, particularly the surges observed in Q1–Q3 2023.
+## CONCLUSION AND RECOMMENDATIONS
+-APT34’s sophisticated tactics and nation-state backing make them a persistent and formidable threat. The client should:
+- **•	Implement the recommended defence strategies to strengthen their security posture:**.
+-**Regularly update and test their defences based on emerging threat intelligence:**
+-**Foster a culture of security awareness among employees to reduce human error:**
+  **By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threatsarget Top Wastage Causes:**
 
 ## THANK YOU
