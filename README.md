@@ -5,7 +5,7 @@
 This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture
 
 ## PROBLEM STATEMENT
-A leading tech corporation clients has fallen prey to a sophisticated cyberattack by a notorious Advanced Persistent Threat (APT) group known as APT34. The attack, believed to be sponsored by a foreign government, has left the organisation's network compromised and valuable customer data and intellectual property has been stolen.
+A leading tech corporation's clients have fallen prey to a sophisticated cyberattack by a notorious Advanced Persistent Threat (APT) group known as APT34. The attack, believed to be sponsored by a foreign government, has left the organisation's network compromised and valuable customer data and intellectual property have been stolen.
 
 ## PROJECT OBJECTIVES
 - **The objective of this project is to help our client conduct an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation:**.
@@ -25,7 +25,7 @@ OSINT tools used to gather information on APT34:
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 
 ## MITRE ATT&CK Framework (https://attack.mitre.org/)
-This is a widely used tool to categorise and identify cyberthreats.
+This is a widely used tool to categorise and identify cyber threats.
 - **Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov**/**
 - **US-CERT: https://www.us-cert.gov/**
 
