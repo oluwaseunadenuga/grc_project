@@ -11,12 +11,29 @@ A leading tech corporation clients has fallen prey to a sophisticated cyberattac
 - **The objective of this project is to help our client conduct an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation:**.
 - **Produce a comprehensive report documenting your findings and outlining key recommendations for improving the organisation's cybersecurity posture:**
 
-## METHODOLOGY
+## OSINT TOOLS
+OSINT tools to gather information on APT34:
+•	Mandiant Security Blog: https://www.mandiant.com/resources/blog  
+•	CrowdStrike: https://www.crowdstrike.com/
+•	Recorded Future: https://www.recordedfuture.com/
+•	CyberScoop: https://www.cyberscoop.com/
+•	Dark Reading: https://www.darkreading.com/
+•	The CyberWire: https://thecyberwire.com/
+•	SecureWorks - https://www.secureworks.com/
+•	ThreatConnect - https://www.threatconnect.com
+•	Kaspersky Lab: https://www.kaspersky.com/
+•	Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence
+
 - **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
 component issues and wastage.
 - **Data Understanding:** I explored the dataset to identify key features and
 relationships for analysis.
 
+METHODOLOGY
+- **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
+component issues and wastage.
+- **Data Understanding:** I explored the dataset to identify key features and
+relationships for analysis.
 - **ETL Process:** I extracted, transformed, and loaded the data into Power BI for
 compatibility and analysis.
 
