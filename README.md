@@ -46,12 +46,12 @@ APT34 is widely attributed to Iran, with operations aligning closely with the na
 ## Targeted Industries
 The group targets:
 
--**Government agencies**
+**-**Government agencies**
 -**Financial institutions**
 -**Energy companies**
 -**Telecommunications**
 -**Defense contractors**
--**Critical infrastructure**
+-**Critical infrastructure****
 
 ## Motives
 APT34’s primary motive is espionage. The group seeks to:
