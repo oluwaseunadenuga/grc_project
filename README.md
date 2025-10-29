@@ -1,9 +1,12 @@
-# grc_projects
-## Leveraging MS Excel and Power BI to Optimize Blood Component Management by Uncovering Insights into Issues, Wastage, and Inventory Management
-![image](https://github.com/user-attachments/assets/c4f0e9b5-7ab5-4902-ba68-374c94a38615)
+# Datacom GRC Project
+## Investigating a cyberattack and conducting a comprehensive risk assessment 
+![image](https://github.com/user-attachments/assets/c4f0e9b5-7ab5-4902-ba68-374c94a38615) 
+<img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/c55b8077-0e5e-448f-adc8-9c4f641c302b" />
+
 
 ## INTRODUCTION
-The **IHS Blood Stocks Management** aims to enhance blood inventory management across the supply chain. This project utilizes Power BI to analyze hospital component issues and wastage trends, focusing on Red Blood Cells, Platelets, and Frozen Plasma. Key insights reveal strong issue-wastage correlations, seasonal patterns, and major wastage causes like Time Expiry (TIMEX). The findings offer data-driven recommendations to optimize inventory management and minimize wastage for NHSBSM.
+This project aims to investigate a cyber attack and produce a comprehensive report documenting findings and outlining key recommendations for improving a client's cybersecurity posture
+
 ![image](https://github.com/user-attachments/assets/b256cb67-793a-4229-94ab-b1581ecf4cad)
 
 ## PROBLEM STATEMENT
