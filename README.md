@@ -7,10 +7,8 @@ This project focuses on investigating a cyberattack by APT34 and producing a com
 ## PROBLEM STATEMENT
 A leading tech corporation clients has fallen prey to a sophisticated cyberattack by a notorious Advanced Persistent Threat (APT) group known as APT34. The attack, believed to be sponsored by a foreign government, has left the organisation's network compromised and valuable customer data and intellectual property has been stolen.
 
-## AIM OF THE PROJECT
--**Conduct initial research on this APT group, APT34 and assess the extent of the breach's impact on the organisation's information securit
--**Identify APT34's tactics, techniques, procedures (TTPs) and the common vulnerabilities they exploit to gain access to networks
--**The objective of this task is to help our client conduct an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation. As a result, you will need to 
+## OBJECTIVE AIM OF THE PROJECT
+-** The objective of this task is to help our client conduct an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation. As a result, you will need to 
 -** Produce a comprehensive report documenting your findings and outlining key recommendations for improving the organisation's cybersecurity posture.
 ## METHODOLOGY 
 - **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
