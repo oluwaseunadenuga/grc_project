@@ -29,7 +29,7 @@ This is a widely used tool to categorise and identify cyberthreats.
 - **Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov**/**
 - **US-CERT: https://www.us-cert.gov/**
 
-## **Overview of APT34
+## Overview of APT34
 **History**
  APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
 **Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives**.
@@ -53,15 +53,19 @@ APT34’s primary motive is espionage. The group seeks to:
 •	Disrupt adversarial operations in key sectors.
 
 **2. APT34 Tactics, Techniques, and Procedures (TTPs)**
-Using the MITRE ATT&CK Framework, APT34’s TTPs include:
+**Using the MITRE ATT&CK Framework, APT34’s TTPs include:
 Tactic	Technique
-Initial Access	Spear-phishing links (T1566.001), exploiting public-facing applications (T1190).
-Execution	PowerShell scripting (T1059.001), execution of malicious payloads (T1203).
-Persistence	Web shells (T1505.003), account manipulation (T1098).
+Initial Access	Spear-phishing links (T1566.001),
+exploiting public-facing applications (T1190).
+Execution	PowerShell scripting (T1059.001)
+Eeution of malicious payloads (T1203).
+Persistence	Web shells (T1505.003)
+account manipulation (T1098).
 Privilege Escalation	Exploiting vulnerabilities for elevated privileges (T1068).
-Defense Evasion	Obfuscated scripts (T1027), credential dumping (T1003).
+Defense Evasion	Obfuscated scripts (T1027)
+credential dumping (T1003)
 Command and Control	HTTPS or DNS tunneling for encrypted C2 communication (T1071.001).
-Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).
+Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).**
 
 ****Tools Associated with APT34**
 •	PoisonFrog: A backdoor for remote access.
