@@ -25,8 +25,7 @@ OSINT tools used to gather information on APT34:
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 
 ## MITRE ATT&CK Framework (https://attack.mitre.org/)
-This is a widely used tool to categorise and identify cyberthreats. Students should familiarise themselves with the framework and understand how to apply it to develop a comprehensive defence strategy.
-News and Other Resources: Students should stay up-to-date with the latest cybersecurity news and resources to gain a better understanding of the evolving cybersecurity landscape and new threats.
+This is a widely used tool to categorise and identify cyberthreats.
 *Dimension Tables** Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov/
 •**Dimension Tables**US-CERT: https://www.us-cert.gov/
 
