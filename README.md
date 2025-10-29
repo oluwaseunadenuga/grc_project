@@ -29,13 +29,13 @@ This is a widely used tool to categorise and identify cyberthreats.
 - **Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov**/**
 - **US-CERT: https://www.us-cert.gov/**
 
-## VIZUALISATION
-- **Overview of APT34
+## **Overview of APT34
 History
 APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organizations primarily in the Middle East and occasionally in other regions. Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing, and web shells to achieve its objectives.
 Nation/State Association
 APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
-Targeted Industries
+
+## Targeted Industries
 The group targets:
 •	Government agencies
 •	Financial institutions
@@ -44,13 +44,13 @@ The group targets:
 •	Defense contractors
 •	Critical infrastructure
 
-Motives
+## Motives
 APT34’s primary motive is espionage. The group seeks to:
 •	Collect sensitive information to support state objectives.
 •	Gain strategic advantages in geopolitical conflicts.
 •	Disrupt adversarial operations in key sectors.
 
-2. APT34 Tactics, Techniques, and Procedures (TTPs)
+**2. APT34 Tactics, Techniques, and Procedures (TTPs)**
 Using the MITRE ATT&CK Framework, APT34’s TTPs include:
 Tactic	Technique
 Initial Access	Spear-phishing links (T1566.001), exploiting public-facing applications (T1190).
@@ -61,44 +61,43 @@ Defense Evasion	Obfuscated scripts (T1027), credential dumping (T1003).
 Command and Control	HTTPS or DNS tunneling for encrypted C2 communication (T1071.001).
 Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).
 
-Tools Associated with APT34
+****Tools Associated with APT34**
 •	PoisonFrog: A backdoor for remote access.
 •	PowBat: A PowerShell-based tool.
 •	TwoFace: A web shell.
-3. Defense Strategy Against APT34
+
+**3. Defense Strategy Against APT34**
 To mitigate risks, the following multi-layered security measures are recommended:
-A. Network Security
+**A. Network Security**
 1.	Network Segmentation: Restrict access between critical systems and general networks.
 2.	Intrusion Detection and Prevention Systems (IDPS): Deploy systems to detect and block unusual traffic patterns and known APT34 signatures.
 3.	DNS Filtering: Block known malicious domains associated with APT34’s infrastructure.
-B. Endpoint Security
+
+**B. Endpoint Security**
 1.	Endpoint Detection and Response (EDR): Monitor endpoints for suspicious activity.
 2.	Regular Patching: Ensure timely updates of software to address vulnerabilities.
 3.	Application Whitelisting: Prevent unauthorized execution of applications or scripts.
-C. Identity and Access Management (IAM)
+
+**C. Identity and Access Management (IAM)**
 1.	Multi-Factor Authentication (MFA): Enforce MFA for all critical accounts.
 2.	Least Privilege Access: Apply the principle of least privilege to minimize access.
 3.	Account Monitoring: Monitor for unusual login attempts or privilege escalations.
-D. Email Security
+
+**D. Email Security**
 1.	Anti-Phishing Solutions: Use tools to detect and block phishing emails.
 2.	User Training: Educate employees to recognize and report phishing attempts.
-E. Threat Intelligence and Monitoring
+
+**E. Threat Intelligence and Monitoring**
 1.	Threat Feeds: Monitor threat intelligence feeds for Indicators of Compromise (IOCs) related to APT34.
 2.	Penetration Testing: Simulate attacks to identify vulnerabilities in defences.
-F. Incident Response and Recovery
+
+**F. Incident Response and Recovery**
 1.	Incident Response Plan: Develop and routinely test an incident response plan.
 2.	Backup Strategy: Maintain offline backups to mitigate the impact of data theft or destruction.
-G. Continuous Monitoring and Analytics
+
+**G. Continuous Monitoring and Analytics**
 1.	SIEM Solutions: Implement Security Information and Event Management (SIEM) systems to centralize and correlate logs.
 2.	Behavioural Analytics: Leverage analytics to detect anomalies indicative of APT-style attacks.
-
- 
-
-
-
-
-Line Chart**
-- **Bar Chart**
 
 ## CONCLUSION AND RECOMMENDATIONS
 -APT34’s sophisticated tactics and nation-state backing make them a persistent and formidable threat. The client should:
