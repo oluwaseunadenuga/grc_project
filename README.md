@@ -45,11 +45,12 @@ APT34 is widely attributed to Iran, with operations aligning closely with the na
 
 ## Targeted Industries
 The group targets:
+
 -**Government agencies**
-- **Financial institutions**
--** Energy companies**
+-**Financial institutions**
+-**Energy companies**
 -**Telecommunications**
--** Defense contractors**
+-**Defense contractors**
 -**Critical infrastructure**
 
 ## Motives
