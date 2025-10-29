@@ -59,18 +59,18 @@ APT34’s primary motive is espionage. The group seeks to:
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 - **Using the MITRE ATT&CK Framework, APT34’s TTPs include:
 
-## Tactic	Technique
--Initial Access	Spear-phishing links (T1566.001)
--exploiting public-facing applications (T1190).
--Execution	PowerShell scripting (T1059.001)
--Evolution of malicious payloads (T1203).
+## Tactic	Techniques
+- **Initial Access	Spear-phishing links (T1566.001)
+- **exploiting public-facing applications (T1190).
+- **Execution	PowerShell scripting (T1059.001)
+- **Evolution of malicious payloads (T1203).
 -Persistence	Web shells (T1505.003)
--account manipulation (T1098).
--Privilege Escalation	Exploiting vulnerabilities for elevated privileges (T1068).
--Defense Evasion	Obfuscated scripts (T1027)
--credential dumping (T1003)
--Command and Control	HTTPS or DNS tunneling for encrypted C2 communication (T1071.001).
--Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).**
+- **account manipulation (T1098).
+- **Privilege Escalation	Exploiting vulnerabilities for elevated privileges (T1068).
+- **Defense Evasion	Obfuscated scripts (T1027)
+- **credential dumping (T1003)
+- **Command and Control	HTTPS or DNS tunneling for encrypted C2 communication (T1071.001).
+- **Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).**
 
 ## Tools Associated with APT34
 - **PoisonFrog: A backdoor for remote access:**
