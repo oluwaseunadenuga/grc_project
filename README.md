@@ -24,8 +24,11 @@ OSINT tools used to gather information on APT34:
 - **Kaspersky Lab: https://www.kaspersky.com:**
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 
-## MODELLING
-The data modeling for this project follows a star schema approach, where the **Fact Table** (containing hospital component issues and wastage records) is connected to multiple **Dimension Tables** to ensure efficient analysis. The **Fact Table** includes key metrics such as issue counts, wastage counts, product group names, and blood group names. It is linked to **Dimension Tables** like **Blood Group (O-, A+, etc.), Calender (Year, Quarter, Month), and Wastage Codes (TIMEX, TTMH, etc.)** through unique identifiers. This relational structure allows for seamless trend analysis, comparisons across different categories, and deeper insights into the root causes of wastage and inventory inefficiencies.
+## MITRE ATT&CK Framework (https://attack.mitre.org/)
+This is a widely used tool to categorise and identify cyberthreats. Students should familiarise themselves with the framework and understand how to apply it to develop a comprehensive defence strategy.
+News and Other Resources: Students should stay up-to-date with the latest cybersecurity news and resources to gain a better understanding of the evolving cybersecurity landscape and new threats.
+****Dimension Tables** Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov/
+•****Dimension Tables**US-CERT: https://www.us-cert.gov/
 
 ![image](https://github.com/user-attachments/assets/2e3e66b0-be62-4eff-affd-e1f42defe90c)
 
