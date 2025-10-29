@@ -113,7 +113,7 @@ To mitigate risks, the following multi-layered security measures are recommended
 
 ## CONCLUSION AND RECOMMENDATIONS
 APT34’s sophisticated tactics and nation-state backing make it a persistent and formidable threat. The client should:
-- **Implement the recommended defence strategies to strengthen their security posture
-- **Foster a culture of security awareness among employees to reduce human error:*
-- **By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threat target Top Wastage Causes:**
+- Implement the recommended defence strategies to strengthen their security posture
+- Foster a culture of security awareness among employees to reduce human error:*
+- By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threat target Top Wastage Causes
 ## THANK YOU
