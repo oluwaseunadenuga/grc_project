@@ -1,7 +1,7 @@
 # Datacom GRC Project
 ## Investigating a cyberattack and producing a comprehensive report"
 <img width="551" height="490" alt="image" src="https://github.com/user-attachments/assets/1d7058e1-b619-4e87-af70-a1abd647b5e5" />
-
+https://www.maxtonfox.com.au/wp-content/uploads/2021/11/1.-gwp-8763-Edit-scaled-1.jpg
 ## INTRODUCTION
 This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture
 
