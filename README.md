@@ -27,10 +27,8 @@ OSINT tools used to gather information on APT34:
 ## MITRE ATT&CK Framework (https://attack.mitre.org/)
 This is a widely used tool to categorise and identify cyberthreats. Students should familiarise themselves with the framework and understand how to apply it to develop a comprehensive defence strategy.
 News and Other Resources: Students should stay up-to-date with the latest cybersecurity news and resources to gain a better understanding of the evolving cybersecurity landscape and new threats.
-****Dimension Tables** Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov/
-•****Dimension Tables**US-CERT: https://www.us-cert.gov/
-
-![image](https://github.com/user-attachments/assets/2e3e66b0-be62-4eff-affd-e1f42defe90c)
+*Dimension Tables** Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov/
+•**Dimension Tables**US-CERT: https://www.us-cert.gov/
 
 ## VIZUALISATION
 - **Line Chart**
