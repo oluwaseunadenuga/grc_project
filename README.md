@@ -34,6 +34,7 @@ This is a widely used tool to categorise and identify cyber threats.
 
 ## Overview of APT34
 **History**
+
  APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
 **Known for its sophisticated an**d persistent attacks
 **APT34 uses custom malware**
@@ -44,12 +45,12 @@ APT34 is widely attributed to Iran, with operations aligning closely with the na
 
 ## Targeted Industries
 The group targets:
-•	Government agencies
-•	Financial institutions
-•	Energy companies
-•	Telecommunications
-•	Defense contractors
-•	Critical infrastructure
+**•	Government agencies**
+**•	Financial institutions**
+**•	Energy companies**
+**•	Telecommunications**
+**•	Defense contractors**
+**•	Critical infrastructure**
 
 ## Motives
 APT34’s primary motive is espionage. The group seeks to:
