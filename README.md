@@ -3,7 +3,7 @@
 <img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/c55b8077-0e5e-448f-adc8-9c4f641c302b" />
 ## INTRODUCTION
 This project aims to investigate a cyber attack and produce a comprehensive report documenting findings and outlining key recommendations for improving a client's cybersecurity posture
-<img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/70e4406b-2a4b-41eb-a4ba-6ba4eb5251ae" />
+<img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/cab2ed0c-d272-4320-b1ea-65141791b46c" />
 
 ## PROBLEM STATEMENT
 - Hospitals face challenges in managing blood component inventory, leading to high wastage and supply inefficiencies.
