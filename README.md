@@ -1,12 +1,9 @@
 # Datacom GRC Project
 ## Investigating a cyberattack and conducting a comprehensive risk assessment 
 <img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/c55b8077-0e5e-448f-adc8-9c4f641c302b" />
-
-
 ## INTRODUCTION
 This project aims to investigate a cyber attack and produce a comprehensive report documenting findings and outlining key recommendations for improving a client's cybersecurity posture
-
-![image](https://github.com/user-attachments/assets/b256cb67-793a-4229-94ab-b1581ecf4cad)
+<img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/70e4406b-2a4b-41eb-a4ba-6ba4eb5251ae" />
 
 ## PROBLEM STATEMENT
 - Hospitals face challenges in managing blood component inventory, leading to high wastage and supply inefficiencies.
