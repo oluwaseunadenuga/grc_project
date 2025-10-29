@@ -26,9 +26,9 @@ OSINT tools used to gather information on APT34:
 
 ## MITRE ATT&CK Framework (https://attack.mitre.org/)
 This is a widely used tool to categorise and identify cyberthreats.
+- **Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov
+- **US-CERT: https://www.us-cert.gov/**
 
--**Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov
--**US-CERT: https://www.us-cert.gov/**
 
 ## VIZUALISATION
 - **Line Chart**
