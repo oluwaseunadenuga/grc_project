@@ -9,7 +9,7 @@ A leading tech corporation clients has fallen prey to a sophisticated cyberattac
 
 ## OBJECTIVE AIM OF THE PROJECT
 - ** The objective of this task is to help our client conduct an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation **.
-- ****Produce a comprehensive report documenting your findings and outlining key recommendations for improving the organisation's cybersecurity posture:**** Produce a comprehensive report documenting your findings and outlining key recommendations for improving the organisation's cybersecurity posture.
+- **Produce a comprehensive report documenting your findings and outlining key recommendations for improving the organisation's cybersecurity posture:**
 
 ## METHODOLOGY
 - **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
