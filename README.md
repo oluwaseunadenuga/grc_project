@@ -3,15 +3,16 @@
 <img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/c55b8077-0e5e-448f-adc8-9c4f641c302b" />
 
 ## INTRODUCTION
-This project aims to investigate a cyber attack and produce a comprehensive report documenting findings and outlining key recommendations for improving a client's cybersecurity posture
+This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture
 
 ## PROBLEM STATEMENT
-- Hospitals face challenges in managing blood component inventory, leading to high wastage and supply inefficiencies.
+- One of a leading tech corporation clients has fallen prey to a sophisticated cyberattack by a notorious Advanced Persistent Threat (APT) group known as APT34. The attack, believed to be sponsored by a foreign government, has left the organisation's network compromised and valuable customer data and intellectual property has been stolen.
+•	Your mission is to conduct initial research on this APT group, APT34, and assess the extent of the breach's impact on the organisation's information security. But fear not, for you will be provided with all the necessary tools required to understand cybersecurity concepts and principles, including cyberthreats, attack methods, and the importance of confidentiality, integrity and availability of information. In addition, you will also be familiarised with APT34's tactics, techniques and procedures (TTPs) and the common vulnerabilities they exploit to gain access to networks
+
 
 ## AIM OF THE PROJECT
-- **Analyze Trends:** Identify patterns in hospital component issues and wastage using Power BI to understand their correlation and root causes.
-- **Optimize Inventory Management:** Provide data-driven insights to reduce wastage, especially from Time Expiry (TIMEX), and improve blood supply efficiency.
-- **Enhance Decision-Making:** Support IHSBSM with strategic recommendations for better forecasting, allocation, and utilization of blood components.
+- **Conduct initial research on this APT group, APT34 and assess the extent of the breach's impact on the organisation's information securit
+- **Identify APT34's tactics, techniques, procedures (TTPs) and the common vulnerabilities they exploit to gain access to networks
 
 ## METHODOLOGY 
 - **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
