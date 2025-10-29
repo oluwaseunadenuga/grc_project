@@ -13,16 +13,16 @@ A leading tech corporation clients has fallen prey to a sophisticated cyberattac
 
 ## OSINT TOOLS
 OSINT tools to gather information on APT34:
-•	Mandiant Security Blog: https://www.mandiant.com/resources/blog  
-•	CrowdStrike: https://www.crowdstrike.com/
-•	Recorded Future: https://www.recordedfuture.com/
-•	CyberScoop: https://www.cyberscoop.com/
-•	Dark Reading: https://www.darkreading.com/
-•	The CyberWire: https://thecyberwire.com/
-•	SecureWorks - https://www.secureworks.com/
-•	ThreatConnect - https://www.threatconnect.com
-•	Kaspersky Lab: https://www.kaspersky.com/
-•	Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence
+- **Mandiant Security Blog: https://www.mandiant.com/resources/blog:**
+-- **CrowdStrike: https://www.crowdstrike.com:** 
+- **Recorded Future: https://www.recordedfuture.com/Business Understanding:** 
+- **CyberScoop: https://www.cyberscoop.com/:**
+- **Dark Reading: https://www.darkreading.com/usiness Understanding:**
+- **The CyberWire: https://thecyberwire.com/:**
+- **SecureWorks - https://www.secureworks.com/:** 
+- **hreatConnect - https://www.threatconnect.com:** 
+- **Business Understanding:** •	Kaspersky Lab: https://www.kaspersky.com/
+- **Business Understanding:** •	Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence
 
 - **Business Understanding:** I defined project objectives to analyze trends in NHS hospital
 component issues and wastage.
