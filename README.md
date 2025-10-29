@@ -1,6 +1,5 @@
 # Datacom GRC Project
-## Investigating a cyberattack and conducting a comprehensive risk assessment 
-<img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/c55b8077-0e5e-448f-adc8-9c4f641c302b" />
+## Investigating a cyberattack and producing a comprehensive report" />
 
 ## INTRODUCTION
 This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture
