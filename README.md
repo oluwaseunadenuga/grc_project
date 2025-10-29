@@ -32,6 +32,7 @@ This is a widely used tool to categorise and identify cyber threats.
 ## Overview of APT34
 **History**
  APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
+
 **Known for its sophisticated and persistent attacks
 APT34 uses custom malware
 phishing and web shells to achieve its objectives**.
@@ -57,15 +58,15 @@ APT34’s primary motive is espionage. The group seeks to:
 2. APT34 Tactics, Techniques, and Procedures (TTPs)**
 - **Kaspersky Lab: https://www.kaspersky.com:**
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
-- **Using the MITRE ATT&CK Framework, APT34’s TTPs include:
+- **Using the MITRE ATT&CK Framework, APT34’s TTPs include:**
 
 ## Tactic	Techniques
 - **Initial Access	Spear-phishing links (T1566.001)**
-- **exploiting public-facing applications (T1190)**
+- **Exploiting public-facing applications (T1190)**
 - **Execution	PowerShell scripting (T1059.001)**
 - **Evolution of malicious payloads (T1203)**
 -Persistence	Web shells (T1505.003)**
-- **account manipulation (T1098)**
+- **Account manipulation (T1098)**
 - **Privilege Escalation	Exploiting vulnerabilities for elevated privileges (T1068)**
 - **Defense Evasion	Obfuscated scripts (T1027)**
 - **credential dumping (T1003)**
