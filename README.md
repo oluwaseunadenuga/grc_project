@@ -72,7 +72,7 @@ credential dumping (T1003)
 Command and Control	HTTPS or DNS tunneling for encrypted C2 communication (T1071.001).
 Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).**
 
-## Tools Associated with APT34**
+## Tools Associated with APT34
 - **PoisonFrog: A backdoor for remote access:**
 - **PowBat: A PowerShell-based tool:**
 - **TwoFace: A web shell.e:**
