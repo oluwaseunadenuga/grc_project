@@ -1,6 +1,5 @@
 # Datacom GRC Project
 ## Investigating a cyberattack and conducting a comprehensive risk assessment 
-![image](https://github.com/user-attachments/assets/c4f0e9b5-7ab5-4902-ba68-374c94a38615) 
 <img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/c55b8077-0e5e-448f-adc8-9c4f641c302b" />
 
 
