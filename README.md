@@ -15,9 +15,9 @@ A leading tech corporation clients has fallen prey to a sophisticated cyberattac
 OSINT tools used to gather information on APT34:
 - **Mandiant Security Blog: https://www.mandiant.com/resources/blog:**
 - **CrowdStrike: https://www.crowdstrike.com:** 
-- **Recorded Future: https://www.recordedfuture.com/Business Understanding:** 
+- **Recorded Future: https://www.recordedfuture.com:** 
 - **CyberScoop: https://www.cyberscoop.com/:**
-- **Dark Reading: https://www.darkreading.com/usiness Understanding:**
+- **Dark Reading: https://www.darkreading.com:**
 - **The CyberWire: https://thecyberwire.com/:**
 - **SecureWorks - https://www.secureworks.com/:** 
 - **ThreatConnect - https://www.threatconnect.com:** 
