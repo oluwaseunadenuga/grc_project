@@ -53,9 +53,10 @@ The group targets:
 
 ## Motives
 APT34’s primary motive is espionage. The group seeks to:
-**	Collect sensitive information to support state objectives.**
+**Collect sensitive information to support state objectives.**
 **Gain strategic advantages in geopolitical conflicts.**
 **Disrupt adversarial operations in key sectors**
+
 2. APT34 Tactics, Techniques and Procedures (TTPs)**
 - **Kaspersky Lab: https://www.kaspersky.com:**
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
