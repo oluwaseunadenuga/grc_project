@@ -1,5 +1,6 @@
 # Datacom GRC Project
 ## Investigating a cyberattack and producing a comprehensive report"
+<img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 <img width="551" height="490" alt="image" src="https://github.com/user-attachments/assets/1d7058e1-b619-4e87-af70-a1abd647b5e5" />
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/93c86d1d-d95b-489a-88bc-55bf745eb839" />
 
