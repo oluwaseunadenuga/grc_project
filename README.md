@@ -1,10 +1,13 @@
 # Datacom GRC Project
 ## Investigating a cyberattack and conducting a comprehensive risk assessment 
 <img width="1151" height="758" alt="image" src="https://github.com/user-attachments/assets/c55b8077-0e5e-448f-adc8-9c4f641c302b" />
+
 ## INTRODUCTION
 This project aims to investigate a cyber attack and produce a comprehensive report documenting findings and outlining key recommendations for improving a client's cybersecurity posture
+
 ## PROBLEM STATEMENT
 - Hospitals face challenges in managing blood component inventory, leading to high wastage and supply inefficiencies.
+
 ## AIM OF THE PROJECT
 - **Analyze Trends:** Identify patterns in hospital component issues and wastage using Power BI to understand their correlation and root causes.
 - **Optimize Inventory Management:** Provide data-driven insights to reduce wastage, especially from Time Expiry (TIMEX), and improve blood supply efficiency.
