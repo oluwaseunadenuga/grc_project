@@ -2,7 +2,6 @@
 ## Leveraging MS Excel and Power BI to Optimize Blood Component Management by Uncovering Insights into Issues, Wastage, and Inventory Management
 ![image](https://github.com/user-attachments/assets/c4f0e9b5-7ab5-4902-ba68-374c94a38615)
 
-***Disclaimer⚠️:** All datasets, slides and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual mention. All info are dummy and design to demonstrate my capabilities of using PowerBI to perform advance analysis on healthcare dataset*
 ## INTRODUCTION
 The **IHS Blood Stocks Management** aims to enhance blood inventory management across the supply chain. This project utilizes Power BI to analyze hospital component issues and wastage trends, focusing on Red Blood Cells, Platelets, and Frozen Plasma. Key insights reveal strong issue-wastage correlations, seasonal patterns, and major wastage causes like Time Expiry (TIMEX). The findings offer data-driven recommendations to optimize inventory management and minimize wastage for NHSBSM.
 ![image](https://github.com/user-attachments/assets/b256cb67-793a-4229-94ab-b1581ecf4cad)
@@ -34,7 +33,7 @@ The data modeling for this project follows a star schema approach, where the **F
 
 ![image](https://github.com/user-attachments/assets/2e3e66b0-be62-4eff-affd-e1f42defe90c)
 
-## VIZUALIZATION
+## VIZUALISATION
 - **Line Chart**
 - **Bar Chart**
 
