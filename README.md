@@ -55,7 +55,9 @@ APT34’s primary motive is espionage. The group seeks to:
 •	Disrupt adversarial operations in key sectors.
 
 2. APT34 Tactics, Techniques, and Procedures (TTPs)**
-**Using the MITRE ATT&CK Framework, APT34’s TTPs include:
+- **Kaspersky Lab: https://www.kaspersky.com:**
+- **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
+- **Using the MITRE ATT&CK Framework, APT34’s TTPs include:
 
 Tactic	Technique
 Initial Access	Spear-phishing links (T1566.001),
@@ -69,10 +71,11 @@ Defense Evasion	Obfuscated scripts (T1027)
 credential dumping (T1003)
 Command and Control	HTTPS or DNS tunneling for encrypted C2 communication (T1071.001).
 Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).**
+
 ## Tools Associated with APT34**
-•	PoisonFrog: A backdoor for remote access.
-•	PowBat: A PowerShell-based tool.
-•	TwoFace: A web shell.
+- **PoisonFrog: A backdoor for remote access:**
+- **PowBat: A PowerShell-based tool:**
+- **TwoFace: A web shell.e:**
 
 **3. Defense Strategy Against APT34**
 To mitigate risks, the following multi-layered security measures are recommended:
