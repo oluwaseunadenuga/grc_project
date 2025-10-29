@@ -30,9 +30,10 @@ This is a widely used tool to categorise and identify cyberthreats.
 - **US-CERT: https://www.us-cert.gov/**
 
 ## **Overview of APT34
-History
-APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organizations primarily in the Middle East and occasionally in other regions. Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing, and web shells to achieve its objectives.
-Nation/State Association
+**History**
+APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
+**Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives**.
+**Nation/State Association**
 APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
 
 ## Targeted Industries
@@ -100,7 +101,7 @@ To mitigate risks, the following multi-layered security measures are recommended
 2.	Behavioural Analytics: Leverage analytics to detect anomalies indicative of APT-style attacks.
 
 ## CONCLUSION AND RECOMMENDATIONS
--APT34’s sophisticated tactics and nation-state backing make them a persistent and formidable threat. The client should:
+APT34’s sophisticated tactics and nation-state backing make them a persistent and formidable threat. The client should:
 - **•	Implement the recommended defence strategies to strengthen their security posture:**.
 -**Regularly update and test their defences based on emerging threat intelligence:**
 -**Foster a culture of security awareness among employees to reduce human error:**
