@@ -44,7 +44,7 @@ This is a widely used tool for categorising and identifying cyber threats.
 - **US-CERT: https://www.us-cert.gov/**
 
 ## Overview of APT34
- **History**
+ History
  APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions. 
  **Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
 
@@ -66,7 +66,7 @@ APT34’s primary motive is espionage. The group seeks to collect:
 - **Gain strategic advantages in geopolitical conflicts** 
 - **Disrupt adversarial operations in key sectors**
 
-##**APT34 Tactics, Techniques and Procedures (TTPs)**
+**APT34 Tactics, Techniques and Procedures (TTPs)**
 Using the MITRE ATT&CK Framework, APT34’s TTPs include:
 
 ## Tactic/                   Techniques
