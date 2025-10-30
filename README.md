@@ -33,7 +33,6 @@ This is a widely used tool to categorise and identify cyber threats.
 - **US-CERT: https://www.us-cert.gov/**
 
 ## Overview of APT34
-
 **History**
 APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
 **Known for its sophisticated an**d persistent attacks
@@ -78,12 +77,11 @@ The group targets:
 
 ## Tools Associated with APT34
 - **PoisonFrog: A backdoor for remote access**
-- **PowBat: A PowerShell-based tool **
+- **PowBat: A PowerShell-based tool**
 - **TwoFace: A web shell.e**
 
 **3. Defense Strategy Against APT34**
 To mitigate risks, the following multi-layered security measures are recommended:
-
 **A. Network Security**
 1.	Network Segmentation: Restrict access between critical systems and general networks.
 2.	Intrusion Detection and Prevention Systems (IDPS): Deploy systems to detect and block unusual traffic patterns and known APT34 signatures.
