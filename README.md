@@ -8,10 +8,10 @@ This project focuses on investigating a cyberattack by APT34 and producing a com
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/93c86d1d-d95b-489a-88bc-55bf745eb839" />
 
 ## PROBLEM STATEMENT
-A leading tech corporation's clients have fallen prey to a sophisticated cyberattack by a notorious Advanced Persistent Threat (APT) group known as APT34. The attack, believed to be sponsored by a foreign government, has left the organisation's network compromised and valuable customer data and intellectual property have been stolen.
+A leading tech corporation client experienced a sophisticated cyberattack by a notorious Advanced Persistent Threat (APT) group known as APT34. The attack, believed to be sponsored by a foreign government, has left the organisation's network compromised and valuable customer data and intellectual property have been stolen.
 
 ## PROJECT OBJECTIVES
-- **The objective of this project is to help our client conduct an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation:**.
+- **The objective of this project is to help the client conducts an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation:**.
 - **Produce a comprehensive report documenting your findings and outlining key recommendations for improving the organisation's cybersecurity posture:**
 
 ## OSINT TOOLS
@@ -59,7 +59,7 @@ APT34’s primary motive is espionage. The group seeks to:
 **Gain strategic advantages in geopolitical conflicts.**
 **Disrupt adversarial operations in key sectors**
 
-2. APT34 Tactics, Techniques and Procedures (TTPs)**
+2. APT34 Tactics, Techniques and Procedures (TTPs)
 - **Kaspersky Lab: https://www.kaspersky.com:**
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 - **Using the MITRE ATT&CK Framework, APT34’s TTPs include:**
@@ -69,7 +69,7 @@ APT34’s primary motive is espionage. The group seeks to:
 - **Exploiting public-facing applications (T1190)**
 - **Execution	PowerShell scripting (T1059.001)**
 - **Evolution of malicious payloads (T1203)**
--Persistence	Web shells (T1505.003)**
+- ** Persistence	Web shells (T1505.003)**
 - **Account manipulation (T1098)**
 - **Privilege Escalation	Exploiting vulnerabilities for elevated privileges (T1068)**
 - **Defense Evasion	Obfuscated scripts (T1027)**
@@ -95,7 +95,7 @@ To mitigate risks, the following multi-layered security measures are recommended
 2.	Regular Patching: Ensure timely updates of software to address vulnerabilities.
 3.	Application Whitelisting: Prevent unauthorized execution of applications or scripts.
 
-**C. Identity and Access Management (IAM)**
+**C. Identity and Access Management (IAM)
 1.	Multi-Factor Authentication (MFA): Enforce MFA for all critical accounts.
 2.	Least Privilege Access: Apply the principle of least privilege to minimize access.
 3.	Account Monitoring: Monitor for unusual login attempts or privilege escalations.
