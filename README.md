@@ -33,9 +33,9 @@ This is a widely used tool to categorise and identify cyber threats.
 - **US-CERT: https://www.us-cert.gov/**
 
 ## Overview of APT34
-**History**
+- **History**
 APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
-**Known for its sophisticated an**d persistent attacks
+**Known for its sophisticated and persistent attacks**
 **APT34 uses custom malware**
 **phishing and web shells to achieve its objectives**.
 
