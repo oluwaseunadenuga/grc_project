@@ -15,9 +15,9 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 - **Produce a comprehensive report documenting my findings and outlining key recommendations to improve the organisation's cybersecurity posture:**
 
 ## TASKS
-**1. Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34**
-**2. Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.**
-**3. Provide answers to the following questions**
+-**1. Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34**
+-**2. Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.**
+-**3. Provide answers to the following questions**
 - **What is their history?:**
 - **Which nation/state are they associated with?:**
 - **Do they target specific industries?:**
