@@ -34,8 +34,7 @@ This is a widely used tool to categorise and identify cyber threats.
 
 ## Overview of APT34
 **History**
-
- APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
+APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
 **Known for its sophisticated an**d persistent attacks
 **APT34 uses custom malware**
 **phishing and web shells to achieve its objectives**.
@@ -54,12 +53,12 @@ The group targets:
 -**Critical infrastructure****
 
 ## Motives
-APT34’s primary motive is espionage. The group seeks to:
+**APT34’s primary motive is espionage. The group seeks to:**
 **Collect sensitive information to support state objectives.**
 **Gain strategic advantages in geopolitical conflicts.**
 **Disrupt adversarial operations in key sectors**
 
-2. APT34 Tactics, Techniques and Procedures (TTPs)
+2. **APT34 Tactics, Techniques and Procedures (TTPs)**
 - **Kaspersky Lab: https://www.kaspersky.com:**
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 - **Using the MITRE ATT&CK Framework, APT34’s TTPs include:**
@@ -69,7 +68,7 @@ APT34’s primary motive is espionage. The group seeks to:
 - **Exploiting public-facing applications (T1190)**
 - **Execution	PowerShell scripting (T1059.001)**
 - **Evolution of malicious payloads (T1203)**
-- ** Persistence	Web shells (T1505.003)**
+- **Persistence	Web shells (T1505.003)**
 - **Account manipulation (T1098)**
 - **Privilege Escalation	Exploiting vulnerabilities for elevated privileges (T1068)**
 - **Defense Evasion	Obfuscated scripts (T1027)**
@@ -95,7 +94,7 @@ To mitigate risks, the following multi-layered security measures are recommended
 2.	Regular Patching: Ensure timely updates of software to address vulnerabilities.
 3.	Application Whitelisting: Prevent unauthorized execution of applications or scripts.
 
-**C. Identity and Access Management (IAM)
+**C.Identity and Access Management (IAM)**
 1.	Multi-Factor Authentication (MFA): Enforce MFA for all critical accounts.
 2.	Least Privilege Access: Apply the principle of least privilege to minimize access.
 3.	Account Monitoring: Monitor for unusual login attempts or privilege escalations.
@@ -118,7 +117,8 @@ To mitigate risks, the following multi-layered security measures are recommended
 
 ## CONCLUSION AND RECOMMENDATIONS
 APT34’s sophisticated tactics and nation-state backing make it a persistent and formidable threat. The client should:
-- Implement the recommended defence strategies to strengthen their security posture
-- Foster a culture of security awareness among employees to reduce human error:*
-- By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threat target Top Wastage Causes
+- Implement the recommended defence strategies to strengthen their security posture.
+- Foster a culture of security awareness among employees to reduce human error.
+- By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threat target Top Wastage Causes.
+  
 ## THANK YOU
