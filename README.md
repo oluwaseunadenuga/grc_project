@@ -87,45 +87,46 @@ APT34’s primary motive is espionage. The group seeks to collect:
 ## Tools Associated with APT34
 - **PoisonFrog: A backdoor for remote access**
 - **PowBat: A PowerShell-based tool**
-- **TwoFace: A web shell.e**
+- **TwoFace: A web shell**
 
 ## 3.0 Defense Strategy Against APT34
 To mitigate risks, the following multi-layered security measures are recommended:
 
 **A. Network Security**
-1.	Network Segmentation: Restrict access between critical systems and general networks.
-2.	Intrusion Detection and Prevention Systems (IDPS): Deploy systems to detect and block unusual traffic patterns and known APT34 signatures.
-3.	DNS Filtering: Block known malicious domains associated with APT34’s infrastructure.
+1.	**Network Segmentation**: Restrict access between critical systems and general networks.
+2.	**Intrusion Detection and Prevention Systems (IDPS)**: Deploy systems to detect and block unusual traffic patterns and known APT34 signatures.
+3.	**DNS Filtering:** Block known malicious domains associated with APT34’s infrastructure.
 
 **B. Endpoint Security**
-1.	Endpoint Detection and Response (EDR): Monitor endpoints for suspicious activity.
-2.	Regular Patching: Ensure timely updates of software to address vulnerabilities.
-3.	Application Whitelisting: Prevent unauthorised execution of applications or scripts.
+1.	**Endpoint Detection and Response (EDR)**: Monitor endpoints for suspicious activity.
+2.	**Regular Patching**: Ensure timely updates of software to address vulnerabilities.
+3.	**Application Whitelisting**: Prevent unauthorised execution of applications or scripts.
 
 **C.Identity and Access Management (IAM)**
-1.	Multi-Factor Authentication (MFA): Enforce MFA for all critical accounts.
-2.	Least Privilege Access: Apply the principle of least privilege to minimise access.
-3.	Account Monitoring: Monitor for unusual login attempts or privilege escalations.
+1.	**Multi-Factor Authentication (MFA)**: Enforce MFA for all critical accounts.
+2.	**Least Privilege Access**: Apply the principle of least privilege to minimise access.
+3.	**Account Monitoring**: Monitor for unusual login attempts or privilege escalations.
 
 **D. Email Security**
-1.	Anti-Phishing Solutions: Use tools to detect and block phishing emails.
-2.	User Training: Educate employees to recognise and report phishing attempts.
+1.	**Anti-Phishing Solutions**: Use tools to detect and block phishing emails.
+2.	**User Training:** Educate employees to recognise and report phishing attempts.
 
 **E. Threat Intelligence and Monitoring**
-1.	Threat Feeds: Monitor threat intelligence feeds for Indicators of Compromise (IOCs) related to APT34.
-2.	Penetration Testing: Simulate attacks to identify vulnerabilities in defences.
+1.	**Threat Feeds**: Monitor threat intelligence feeds for Indicators of Compromise (IOCs) related to APT34.
+2.	**Penetration Testing:** Simulate attacks to identify vulnerabilities in defences.
 
 **F. Incident Response and Recovery**
-1.	Incident Response Plan: Develop and routinely test an incident response plan.
-2.	Backup Strategy: Maintain offline backups to mitigate the impact of data theft or destruction.
+1.	**Incident Response Plan**: Develop and routinely test an incident response plan.
+2.	**Backup Strategy**: Maintain offline backups to mitigate the impact of data theft or destruction.
 
 **G. Continuous Monitoring and Analytics**
-1.	SIEM Solutions: Implement Security Information and Event Management (SIEM) systems to centralise and correlate logs.
-2.	Behavioural Analytics: Leverage analytics to detect anomalies indicative of APT-style attacks.
+1.	**SIEM Solutions**: Implement Security Information and Event Management (SIEM) systems to centralise and correlate logs.
+2.	**Behavioural Analytics**: Leverage analytics to detect anomalies indicative of APT-style attacks.
 
 ## 4.0 CONCLUSION AND RECOMMENDATIONS
 APT34’s sophisticated tactics and nation-state backing make it a persistent and formidable threat. The client should:
 - Implement the recommended defence strategies to strengthen their security posture.
+- Regularly update and test their defenses based on emerging threat intelligence.
 - Foster a culture of security awareness among employees to reduce human error.
 
 By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threat targets. Top Wastage Causes.
