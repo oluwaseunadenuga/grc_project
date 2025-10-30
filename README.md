@@ -12,7 +12,7 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 
 ## PROJECT OBJECTIVES
 - **The objective of this project is to help the client conducts an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation:**.
-- **Produce a comprehensive report documenting your findings and outlining key recommendations for improving the organisation's cybersecurity posture:**
+- **Produce a comprehensive report documenting my findings and outlining key recommendations to improve the organisation's cybersecurity posture:**
 
 ## OSINT TOOLS
 OSINT tools used to gather information on APT34:
@@ -33,6 +33,7 @@ This is a widely used tool to categorise and identify cyber threats.
 - **US-CERT: https://www.us-cert.gov/**
 
 ## Overview of APT34
+
 **History**
 APT34 has been active since at least 2014, conducting cyber-espionage campaigns targeting organisations primarily in the Middle East and occasionally in other regions. 
 **Known for its sophisticated an**d persistent attacks
@@ -44,7 +45,6 @@ APT34 is widely attributed to Iran, with operations aligning closely with the na
 
 ## Targeted Industries
 The group targets:
-
 **-**Government agencies**
 -**Financial institutions**
 -**Energy companies**
@@ -92,16 +92,16 @@ To mitigate risks, the following multi-layered security measures are recommended
 **B. Endpoint Security**
 1.	Endpoint Detection and Response (EDR): Monitor endpoints for suspicious activity.
 2.	Regular Patching: Ensure timely updates of software to address vulnerabilities.
-3.	Application Whitelisting: Prevent unauthorized execution of applications or scripts.
+3.	Application Whitelisting: Prevent unauthorised execution of applications or scripts.
 
 **C.Identity and Access Management (IAM)**
 1.	Multi-Factor Authentication (MFA): Enforce MFA for all critical accounts.
-2.	Least Privilege Access: Apply the principle of least privilege to minimize access.
+2.	Least Privilege Access: Apply the principle of least privilege to minimise access.
 3.	Account Monitoring: Monitor for unusual login attempts or privilege escalations.
 
 **D. Email Security**
 1.	Anti-Phishing Solutions: Use tools to detect and block phishing emails.
-2.	User Training: Educate employees to recognize and report phishing attempts.
+2.	User Training: Educate employees to recognise and report phishing attempts.
 
 **E. Threat Intelligence and Monitoring**
 1.	Threat Feeds: Monitor threat intelligence feeds for Indicators of Compromise (IOCs) related to APT34.
@@ -112,7 +112,7 @@ To mitigate risks, the following multi-layered security measures are recommended
 2.	Backup Strategy: Maintain offline backups to mitigate the impact of data theft or destruction.
 
 **G. Continuous Monitoring and Analytics**
-1.	SIEM Solutions: Implement Security Information and Event Management (SIEM) systems to centralize and correlate logs.
+1.	SIEM Solutions: Implement Security Information and Event Management (SIEM) systems to centralise and correlate logs.
 2.	Behavioural Analytics: Leverage analytics to detect anomalies indicative of APT-style attacks.
 
 ## CONCLUSION AND RECOMMENDATIONS
