@@ -25,7 +25,7 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 - **•	5. What are the TTPs they use to conduct their attacks?:**
 - **•	6. What security measures could the client implement to defend against cyberattacks conducted by this APT?:**
 
-- OSINT TOOLS
+## OSINT TOOLS
 **OSINT tools used to gather information on APT34:**
 - **Mandiant Security Blog: https://www.mandiant.com/resources/blog:**
 - **CrowdStrike: https://www.crowdstrike.com:** 
@@ -39,14 +39,14 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 
 ## MITRE ATT&CK Framework (https://attack.mitre.org/)
-**This is a widely used tool to categorize and identify cyber threats.**
+**This is a widely used tool for categorising and identifying cyber threats. ****
 - **Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov**/**
 - **US-CERT: https://www.us-cert.gov/**
 
 ## Overview of APT34
-- **History**
+ **History**
 
-  - APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations primarily in the Middle East and occasionally in other regions. **Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
+  APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions. **Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
 
 ## Nation/State Association
 APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
