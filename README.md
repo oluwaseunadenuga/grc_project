@@ -5,9 +5,6 @@
 ## Executive Summary
 This report provides actionable insights into APT34 (OilRig), an advanced persistent threat (APT) group linked to Iran. The findings outline the group's history, tactics, targets, and motivations, along with a comprehensive defense strategy. The goal is to enhance the client’s security posture and mitigate risks associated with APT34 attacks.
 
-## INTRODUCTION
-This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture
-
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/93c86d1d-d95b-489a-88bc-55bf745eb839" />
 
 ## PROBLEM STATEMENT
