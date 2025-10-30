@@ -52,10 +52,7 @@ The group targets:
 -**Critical infrastructure****
 
 ## Motives
-**APT34’s primary motive is espionage. The group seeks to:**
-**Collect sensitive information to support state objectives.**
-**Gain strategic advantages in geopolitical conflicts.**
-**Disrupt adversarial operations in key sectors**
+**APT34’s primary motive is espionage.The group seeks to collect sensitive information to support state objectives.Gain strategic advantages in geopolitical conflicts.Disrupt adversarial operations in key sectors**
 
 2. **APT34 Tactics, Techniques and Procedures (TTPs)**
 - **Kaspersky Lab: https://www.kaspersky.com:**
@@ -63,7 +60,7 @@ The group targets:
 - **Using the MITRE ATT&CK Framework, APT34’s TTPs include:**
 
 ## Tactic	Techniques
-- **Initial Access	Spear-phishing links (T1566.001)**
+- **Initial Access Spear-phishing links (T1566.001)**
 - **Exploiting public-facing applications (T1190)**
 - **Execution	PowerShell scripting (T1059.001)**
 - **Evolution of malicious payloads (T1203)**
@@ -73,7 +70,7 @@ The group targets:
 - **Defense Evasion	Obfuscated scripts (T1027)**
 - **credential dumping (T1003)**
 - **Command and Control	HTTPS or DNS tunneling for encrypted C2 communication (T1071.001)**
-- **Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).**
+- **Exfiltration Data staging and exfiltration over encrypted channels (T1048.002).**
 
 ## Tools Associated with APT34
 - **PoisonFrog: A backdoor for remote access**
