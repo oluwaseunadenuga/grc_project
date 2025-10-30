@@ -50,7 +50,7 @@ This is a widely used tool for categorising and identifying cyber threats.
 This report provides actionable insights into APT34 (OilRig), an advanced persistent threat (APT) group linked to Iran. The findings outline the group's history, tactics, targets, and motivations, along with a comprehensive defense strategy. The goal is to enhance the client’s security posture and mitigate risks associated with APT34 attacks.
 
 ## 1.0 Overview of APT34
-History
+**History**
 
 APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions.  Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
 
@@ -75,7 +75,7 @@ APT34’s primary motive is espionage. The group seeks to collect:
 ## 2.0 APT34 Tactics, Techniques and Procedures (TTPs)
 **Using the MITRE ATT&CK Framework, APT34’s TTPs include:**
 
-  Tactic/                   Techniques
+**  Tactic/                   Techniques**
 - **Initial Access:          Spear-phishing links (T1566.001), exploiting public-facing applications (T1190)**
 - **Execution:	              PowerShell scripting (T1059.001), execution of malicious payload(T1203)**.
 - **Persistence:	            Web shells (T1505.003), account manipulation (T1098)**.
