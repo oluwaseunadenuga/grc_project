@@ -1,7 +1,10 @@
-# Datacom GRC Project
+# Datacom GRC Project(Comprehensive Cybersecurity Assessment: APT34 (OilRig)
 
 ## Investigating a cyberattack and producing a comprehensive report
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
+
+## Executive Summary
+This report provides actionable insights into APT34 (OilRig), an advanced persistent threat (APT) group linked to Iran. The findings outline the group's history, tactics, targets, and motivations, along with a comprehensive defense strategy. The goal is to enhance the client’s security posture and mitigate risks associated with APT34 attacks.
 
 ## INTRODUCTION
 This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report, documenting findings and outlining key recommendations for improving a client's cybersecurity posture
