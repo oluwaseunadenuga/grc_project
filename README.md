@@ -67,10 +67,10 @@ APT34’s primary motive is espionage. The group seeks to collect:
 - **Gain strategic advantages in geopolitical conflicts** 
 - **Disrupt adversarial operations in key sectors**
 
-**APT34 Tactics, Techniques and Procedures (TTPs)**
+## APT34 Tactics, Techniques and Procedures (TTPs)
 Using the MITRE ATT&CK Framework, APT34’s TTPs include:
 
-## Tactic/                   Techniques
+   Tactic/                   Techniques
 - **Initial Access:          Spear-phishing links (T1566.001), exploiting public-facing applications (T1190)**
 - **Execution:	              PowerShell scripting (T1059.001), execution of malicious payload(T1203)**.
 - **Persistence:	            Web shells (T1505.003), account manipulation (T1098)**.
