@@ -18,12 +18,12 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 **1. Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34**
 **2. Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.**
 **3. Provide answers to the following questions**
-- **1. What is their history?:**
-- **2. Which nation/state are they associated with?:**
-- **3. Do they target specific industries?:**
-- **4. What are their motives?:**
-- **5. What are the TTPs they use to conduct their attacks?:**
-- **6. What security measures could the client implement to defend against cyberattacks conducted by this APT?:**
+- **What is their history?:**
+- **Which nation/state are they associated with?:**
+- **Do they target specific industries?:**
+- **What are their motives?:**
+- **What are the TTPs they use to conduct their attacks?:**
+- **What security measures could the client implement to defend against cyberattacks conducted by this APT?:**
 
 ## OSINT TOOLS
 **OSINT tools used to gather information on APT34:**
