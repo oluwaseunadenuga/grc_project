@@ -1,4 +1,4 @@
-# APT breach: analysing the impact on information security
+# APT breach: Analysing the impact on information security
 
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
@@ -49,7 +49,7 @@ This is a widely used tool for categorising and identifying cyber threats.
 ## Executive Summary
 This report provides actionable insights into APT34 (OilRig), an advanced persistent threat (APT) group linked to Iran. The findings outline the group's history, tactics, targets, and motivations, along with a comprehensive defense strategy. The goal is to enhance the client’s security posture and mitigate risks associated with APT34 attacks.
 
-## Overview of APT34
+## 1.0 Overview of APT34
 History
 
 APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions.  Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
@@ -72,7 +72,7 @@ APT34’s primary motive is espionage. The group seeks to collect:
 - **Gain strategic advantages in geopolitical conflicts** 
 - **Disrupt adversarial operations in key sectors**
 
-## APT34 Tactics, Techniques and Procedures (TTPs)
+## 2.0 APT34 Tactics, Techniques and Procedures (TTPs)
 **Using the MITRE ATT&CK Framework, APT34’s TTPs include:**
 
   Tactic/                   Techniques
@@ -89,7 +89,7 @@ APT34’s primary motive is espionage. The group seeks to collect:
 - **PowBat: A PowerShell-based tool**
 - **TwoFace: A web shell.e**
 
-## Defense Strategy Against APT34
+## 3.0 Defense Strategy Against APT34
 To mitigate risks, the following multi-layered security measures are recommended:
 
 **A. Network Security**
@@ -123,7 +123,7 @@ To mitigate risks, the following multi-layered security measures are recommended
 1.	SIEM Solutions: Implement Security Information and Event Management (SIEM) systems to centralise and correlate logs.
 2.	Behavioural Analytics: Leverage analytics to detect anomalies indicative of APT-style attacks.
 
-## CONCLUSION AND RECOMMENDATIONS
+## 4.0 CONCLUSION AND RECOMMENDATIONS
 APT34’s sophisticated tactics and nation-state backing make it a persistent and formidable threat. The client should:
 - Implement the recommended defence strategies to strengthen their security posture.
 - Foster a culture of security awareness among employees to reduce human error.
