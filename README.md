@@ -16,8 +16,8 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 
 ## TASKS
 **1. Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34**
-**2. Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.
-3. Provide answers to the following questions 
+**2. Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.**
+**3. Provide answers to the following questions**
 - **1. What is their history?:**
 - **2. Which nation/state are they associated with?:**
 - **3. Do they target specific industries?:**
@@ -39,7 +39,7 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 - **Symantec Threat Intelligence: https://www.symantec.com/threat-intelligence:**
 
 ## MITRE ATT&CK Framework (https://attack.mitre.org/)
-**This is a widely used tool for categorising and identifying cyber threats. ****
+This is a widely used tool for categorising and identifying cyber threats.
 - **Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov**/**
 - **US-CERT: https://www.us-cert.gov/**
 
@@ -61,8 +61,8 @@ The group targets:
 - **Critical infrastructures** 
 
 ## Motives
-APT34’s primary motive is espionage. The group seeks to collect 
-- **sensitive information to support state objectives**
+APT34’s primary motive is espionage. The group seeks to collect:
+- **Sensitive information to support state objectives**
 - **Gain strategic advantages in geopolitical conflicts** 
 - **Disrupt adversarial operations in key sectors**
 
