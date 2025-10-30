@@ -10,11 +10,23 @@ This project focuses on investigating a cyberattack by APT34 and producing a com
 ## PROBLEM STATEMENT
 A leading tech corporation client experienced a sophisticated cyberattack by a notorious Advanced Persistent Threat (APT) group known as APT34. The attack, believed to be sponsored by a foreign government, has left the organisation's network compromised and valuable customer data and intellectual property have been stolen.
 
-## PROJECT OBJECTIVES
+## OBJECTIVES
 - **The objective of this project is to help the client conduct an initial investigation into APT34 and evaluate the potential impact of the attack on the organisation:**.
 - **Produce a comprehensive report documenting my findings and outlining key recommendations to improve the organisation's cybersecurity posture:**
 
-## OSINT TOOLS
+## TASKS
+**1. Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34**
+**2. Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.
+3. Provide answers to the following questions 
+- **•	1. What is their history?:**
+- **•	2. Which nation/state are they associated with?:**
+- **•	3. Do they target specific industries?:**
+- **•	4. What are their motives?:**
+- **•	5. What are the TTPs they use to conduct their attacks?:**
+- **•	6. What security measures could the client implement to defend against cyberattacks conducted by this APT?:**
+
+- ## OSINT TOOLS
+
 **OSINT tools used to gather information on APT34:**
 - **Mandiant Security Blog: https://www.mandiant.com/resources/blog:**
 - **CrowdStrike: https://www.crowdstrike.com:** 
