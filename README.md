@@ -18,12 +18,12 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 **1. Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34**
 **2. Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.
 3. Provide answers to the following questions 
-- **•	1. What is their history?:**
-- **•	2. Which nation/state are they associated with?:**
-- **•	3. Do they target specific industries?:**
-- **•	4. What are their motives?:**
-- **•	5. What are the TTPs they use to conduct their attacks?:**
-- **•	6. What security measures could the client implement to defend against cyberattacks conducted by this APT?:**
+- **1. What is their history?:**
+- **2. Which nation/state are they associated with?:**
+- **3. Do they target specific industries?:**
+- **4. What are their motives?:**
+- **5. What are the TTPs they use to conduct their attacks?:**
+- **6. What security measures could the client implement to defend against cyberattacks conducted by this APT?:**
 
 ## OSINT TOOLS
 **OSINT tools used to gather information on APT34:**
@@ -45,8 +45,7 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 
 ## Overview of APT34
  **History**
-
-  APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions. **Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
+ APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions. **Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
 
 ## Nation/State Association
 APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
@@ -69,21 +68,21 @@ The group targets:
 ##**APT34 Tactics, Techniques and Procedures (TTPs)**
 Using the MITRE ATT&CK Framework, APT34’s TTPs include:
 
-## Tactic	                  Techniques
-- **Initial Access          Spear-phishing links (T1566.001),exploiting public-facing applications (T1190)**
-- **Execution	              PowerShell scripting (T1059.001), execution of malicious payload(T1203)**.
-- **Persistence	            Web shells (T1505.003), account manipulation (T1098)**.
-- **Privilege Escalation	  Exploiting vulnerabilities for elevated privileges (T1068)**.
-- **Defense Evasion	        Obfuscated scripts (T1027), credential dumping (T1003)**.
-- **Command and Control	    HTTPS or DNS tunneling for encrypted C2 communication (T1071.001)**.
-- **Exfiltration            Data staging and exfiltration over encrypted channels (T1048.002).**
+## Tactic	                   Techniques
+- **Initial Access:           Spear-phishing links (T1566.001), exploiting public-facing applications (T1190)**
+- **Execution:	              PowerShell scripting (T1059.001), execution of malicious payload(T1203)**.
+- **Persistence:	            Web shells (T1505.003), account manipulation (T1098)**.
+- **Privilege Escalation:	    Exploiting vulnerabilities for elevated privileges (T1068)**.
+- **Defense Evasion:	        Obfuscated scripts (T1027), credential dumping (T1003)**.
+- **Command and Control:	    HTTPS or DNS tunneling for encrypted C2 communication (T1071.001)**.
+- **Exfiltration:             Data staging and exfiltration over encrypted channels (T1048.002).**
 
 ## Tools Associated with APT34
 - **PoisonFrog: A backdoor for remote access**
 - **PowBat: A PowerShell-based tool**
 - **TwoFace: A web shell.e**
 
-**3. Defense Strategy Against APT34**
+** Defense Strategy Against APT34**
 To mitigate risks, the following multi-layered security measures are recommended:
 **A. Network Security**
 1.	Network Segmentation: Restrict access between critical systems and general networks.
