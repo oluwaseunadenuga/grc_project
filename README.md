@@ -43,15 +43,15 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
 ## Targeted Industries
 The group targets:
-- **Government agencies:**
-- **Financial institutions:** 
-- **Energy companies:** 
-- **Telecommunications:**
-- **Defense contractor:**
-- **Critical infrastructure:** 
+- **Government agencies**
+- **Financial institutions** 
+- **Energy companies** 
+- **Telecommunications**
+- **Defense contractor**
+- **Critical infrastructures** 
 
 ## Motives
-**APT34’s primary motive is espionage.The group seeks to collect sensitive information to support state objectives.Gain strategic advantages in geopolitical conflicts.Disrupt adversarial operations in key sectors**
+**APT34’s primary motive is espionage. The group seeks to collect sensitive information to support state objectives.Gain strategic advantages in geopolitical conflicts.Disrupt adversarial operations in key sectors**
 
 2. **APT34 Tactics, Techniques and Procedures (TTPs)**
 - **Kaspersky Lab: https://www.kaspersky.com:**
@@ -113,6 +113,6 @@ To mitigate risks, the following multi-layered security measures are recommended
 APT34’s sophisticated tactics and nation-state backing make it a persistent and formidable threat. The client should:
 - Implement the recommended defence strategies to strengthen their security posture.
 - Foster a culture of security awareness among employees to reduce human error.
-- By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threat target Top Wastage Causes.
+- By adopting these measures, the client can significantly reduce the risk of successful APT34 attacks and enhance resilience against future threat targets. Top Wastage Causes.
   
 ## THANK YOU
