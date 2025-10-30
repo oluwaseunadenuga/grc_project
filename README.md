@@ -1,5 +1,4 @@
-# Datacom GRC Project
-(Comprehensive Cybersecurity Assessment: APT34 (OilRig)
+# Comprehensive Cybersecurity Assessment: APT34 (OilRig)
 
 ## Investigating a cyberattack and producing a comprehensive report
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
