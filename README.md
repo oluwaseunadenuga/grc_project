@@ -15,8 +15,8 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 - **Produce a comprehensive report documenting my findings and outlining key recommendations to improve the organisation's cybersecurity posture:**
 
 ## TASKS
-- **Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34What is their history?:**
-- **Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.
+- **Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34**
+- Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.
 - **Provide answers to the following questions**
 - **What is their history?:**
 - **Which nation/state are they associated with?:**
@@ -26,6 +26,7 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 - **What security measures could the client implement to defend against cyberattacks conducted by this APT?:**
 
 ## OSINT TOOLS
+
 **OSINT tools used to gather information on APT34:**
 - **Mandiant Security Blog: https://www.mandiant.com/resources/blog:**
 - **CrowdStrike: https://www.crowdstrike.com:** 
@@ -45,6 +46,7 @@ This is a widely used tool for categorising and identifying cyber threats.
 
 ## Overview of APT34
 History
+
 APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions.  Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
 
 ## Nation/State Association
