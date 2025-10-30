@@ -15,9 +15,9 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 - **Produce a comprehensive report documenting my findings and outlining key recommendations to improve the organisation's cybersecurity posture:**
 
 ## TASKS
-- **1.Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34What is their history?:**
-- **.Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.
-- **.Provide answers to the following questions**
+- **Utilise various Open-source Intelligence(OSINT)tools and techniques to gather information on APT34What is their history?:**
+- **Apply the MITRE ATT&CK Framework to identify and categorise, to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.
+- **Provide answers to the following questions**
 - **What is their history?:**
 - **Which nation/state are they associated with?:**
 - **Do they target specific industries?:**
@@ -44,9 +44,8 @@ This is a widely used tool for categorising and identifying cyber threats.
 - **US-CERT: https://www.us-cert.gov/**
 
 ## Overview of APT34
- ##History
- 
- APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions.  Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
+History
+APT34 has been active since at least 2014, conducting cyber-espionage campaigns that primarily target organisations in the Middle East and occasionally in other regions.  Known for its sophisticated and persistent attacks, APT34 uses custom malware, phishing and web shells to achieve its objectives.**
 
 ## Nation/State Association
 APT34 is widely attributed to Iran, with operations aligning closely with the nation’s strategic and geopolitical goals.
