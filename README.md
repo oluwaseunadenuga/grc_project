@@ -77,9 +77,9 @@ The group targets:
 - **Exfiltration	Data staging and exfiltration over encrypted channels (T1048.002).**
 
 ## Tools Associated with APT34
-- **PoisonFrog: A backdoor for remote access:**
-- **PowBat: A PowerShell-based tool:**
-- **TwoFace: A web shell.e:**
+- **PoisonFrog: A backdoor for remote access**
+- **PowBat: A PowerShell-based tool **
+- **TwoFace: A web shell.e**
 
 **3. Defense Strategy Against APT34**
 To mitigate risks, the following multi-layered security measures are recommended:
