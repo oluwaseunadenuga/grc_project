@@ -3,7 +3,7 @@
 <img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/9abe98ec-8829-4c61-b6b5-30315450ae0d" />
 
 ## INTRODUCTION
-This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report that documents findings and outlines key recommendations to improve a client's cybersecurity posture.
+This project focuses on investigating a cyberattack by APT34 and producing a comprehensive report documenting the findings and outlining key recommendations to improve a client's cybersecurity posture.
 
 <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/93c86d1d-d95b-489a-88bc-55bf745eb839" />
 
@@ -19,11 +19,11 @@ A leading tech corporation client experienced a sophisticated cyberattack by a n
 - Apply the MITRE ATT&CK Framework to identify and categorise to develop a comprehensive defence strategy to protect the client's networks and systems against future attacks.
 - **Provide answers to the following questions**
 - **What is their history?:**
-- **Which nation/state are they associated with?:**
-- **Do they target specific industries?:**
-- **What are their motives?:**
-- **What are the TTPs they use to conduct their attacks?:**
-- **What security measures could the client implement to defend against cyberattacks conducted by this APT?:**
+- **Which nation/state are they associated with?**
+- **Do they target specific industries?**
+- **What are their motives?**
+- **What are the TTPs they use to conduct their attacks?**
+- **What security measures could the client implement to defend against cyberattacks conducted by this APT?**
 
 ## OSINT TOOLS
 
