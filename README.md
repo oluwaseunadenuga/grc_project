@@ -35,12 +35,12 @@ This project demonstrates hands-on vulnerability assessment competency using **N
 
 The lab covers the complete vulnerability management lifecycle:
 
-- ✅ Target scoping and rules of engagement definition
-- ✅ Scan template selection and policy configuration
-- ✅ Scan execution and dashboard monitoring
-- ✅ CSV export and spreadsheet-based data structuring
-- ✅ Risk-based prioritisation by severity and business impact
-- ✅ Formal reporting and remediation handoff
+- Target scoping and rules of engagement definition
+- Scan template selection and policy configuration
+- Scan execution and dashboard monitoring
+- CSV export and spreadsheet-based data structuring
+- Risk-based prioritisation by severity and business impact
+- Formal reporting and remediation handoff
 
 ---
 
@@ -290,7 +290,7 @@ Dashboard        Nessus Web UI (scan monitoring & results)
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you have questions about this project or would like to discuss vulnerability management, Nessus, or cybersecurity more broadly:
 
